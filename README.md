@@ -158,7 +158,7 @@ The attentiveness score is dynamically calculated using detected behaviors inclu
 - Mobile Usage
 
 The score is continuously updated and displayed on the dashboard.
-
+ 
 ---
 
 # 📊 Dashboard
